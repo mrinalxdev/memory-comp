@@ -1,4 +1,4 @@
-# code-kar
+# Memory Compacter
 
 To install dependencies:
 
